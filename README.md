@@ -1,4 +1,5 @@
 # CampoUnido
+TEMA DO PROJETO: "Agro forte, futuro sustentável: equilíbrio entre produção e meio ambiente".
 
    O CampoUnido é um site que foi desenvolvido com o objetivo de conectar agricultores para compartilhar conhecimentos, tirar duvidas e promover soluções. Segundo dados fornecidos pelo Centro de Estudos Avançados em Economia Aplicada (Ceape) em 27 de abril de 2026, apontou que o agronegócio representou 25,13% no Produto Interno Bruto (PIB) em 2025, evidenciando a força que este setor exerce no Brasil.
    
