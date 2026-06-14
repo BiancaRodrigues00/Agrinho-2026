@@ -7,6 +7,7 @@
    Nesse site, além de explorar o conteúdo do CampoUnido e se manter atualizado sobre os preços de mercado, essa plataforma digital oferece um recurso inovador para colaborar com os produtores. A Comunidade CampoUnido é uma caixa de entrada onde os usuários podem publicar dúvidas e sugestôes, qualquer agricultor tem acesso e pode responder um comentário publicado.
 
    FUNCIONAMENTO DO PROJETO:
+   
    O Site funciona da seguinte forma, a navegação começará na página inicial, com o título "Comunidade rural unida para a sustentabilidade" e o subtitulo "Conectando agricultores para compartilhar conhecimentos e construir um campo mais sustentavel", logo haverá dois botões nesta ordem "Explorar Conteúdo" e "Conhecer o Projeto". Caso o primeiro seja presionado aparecerá a parte do site onde se é exposto a Sustentabilidade e Inovação. De outro modo, se o segundo botão for clicado aparecerão os objetivos do CampoUnido. Para smimplificar o acesso às informações, o menu fixo ancorado no topo fornece os cinco tópicos do nosso app:
    
    Início;
@@ -24,6 +25,7 @@
    Os preços de mercado forão disponibilizados nessa plataforma para auxiliar os produtores a acompanhar os valores de diferentes regiões do país, contribuindo para que consigam comprar e vender da melhor maneira possível.
 
 CRÉDITOS:
+
 Incubadoras do agro têm crescimento de 224% - Portal SouAgro.net - Disponível em: https://souagro.net/noticia/2025/03/incubadoras-do-agro-tem-crescimento-de-224/ Publicado em 29 de março de 2025 e acessado em 13 de junho de 2026;
 
 Inteligência Artificial (IA) foi utilizada para gerar imagens, tais elas: A imagem exibida na página inicial e no card "Conservação do solo", além de gerar os preços da soja, café e boi gordo como é apresentado no "Preços de mercado";
