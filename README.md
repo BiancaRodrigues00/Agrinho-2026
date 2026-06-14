@@ -23,7 +23,7 @@ TEMA DO PROJETO: "Agro forte, futuro sustentável: equilíbrio entre produção 
 
    A comunidade CampoUnido é uma caixa de entrada onde o usuário digita seu nome, insere o tópico debatido, podendo ser ele a soja, milho, café, irrigação ou pecuária. Realizado isto, é possivel comentar sua dúvida ou sugestão e publicar para o publico, seu comentário ficará exposto logo a baixo da caixa de entrada, onde todos tem a opção de enviar a resposta. Uma vez que respondida, tambem ficará em evidenciada para todos os visitantes.
 
-   Os preços de mercado forão disponibilizados nessa plataforma para auxiliar os produtores a acompanhar os valores de diferentes regiões do país, contribuindo para que consigam comprar e vender da melhor maneira possível.
+   Os preços de mercado foram disponibilizados nessa plataforma para auxiliar os produtores a acompanhar os valores de diferentes regiões do país, contribuindo para que consigam comprar e vender da melhor maneira possível.
 
 CRÉDITOS:
 
