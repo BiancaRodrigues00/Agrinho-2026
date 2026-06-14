@@ -29,7 +29,7 @@ CRÉDITOS:
 
 Incubadoras do agro têm crescimento de 224% - Portal SouAgro.net - Disponível em: https://souagro.net/noticia/2025/03/incubadoras-do-agro-tem-crescimento-de-224/ Publicado em 29 de março de 2025 e acessado em 13 de junho de 2026;
 
-Inteligência Artificial (IA) foi utilizada para gerar imagens, tais elas: A imagem exibida na página inicial e no card "Conservação do solo", além de gerar os preços da soja, café e boi gordo como é apresentado no "Preços de mercado";
+Inteligência Artificial (IA) foi utilizada para gerar imagens, tais elas: A imagem exibida na página inicial e no card "Conservação do solo", além de ser utilizado para gerar os preços da soja, café e boi gordo como é apresentado no "Preços de mercado";
 
 PIB do Agronegócio Brasileiro - Centro de Estudos Avançados em Economia Aplicada (Ceape) - Disponível em: https://cepea.org.br/br/pib-do-agronegocio-brasileiro.aspx Publicado em 27 de abril de 2026 e acessado em 14 de junho de 2026;
 
