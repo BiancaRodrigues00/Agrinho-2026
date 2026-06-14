@@ -30,6 +30,6 @@ Incubadoras do agro têm crescimento de 224% - Portal SouAgro.net - Disponível 
 
 Inteligência Artificial (IA) foi utilizada para gerar imagens, tais elas: A imagem exibida na página inicial e no card "Conservação do solo", além de gerar os preços da soja, café e boi gordo como é apresentado no "Preços de mercado";
 
-Pib do Agronegócio Brasileiro - Centro de Estudos Avançados em Economia Aplicada (Ceape) - Disponível em: https://cepea.org.br/br/pib-do-agronegocio-brasileiro.aspx Publicado em 27 de abril de 2026 e acessado em 14 de junho de 2026;
+PIB do Agronegócio Brasileiro - Centro de Estudos Avançados em Economia Aplicada (Ceape) - Disponível em: https://cepea.org.br/br/pib-do-agronegocio-brasileiro.aspx Publicado em 27 de abril de 2026 e acessado em 14 de junho de 2026;
 
 The economic benefits of loT-driven smar irrigation systems - Smart water magazine - Disponível em: https://smartwatermagazine.com/blogs/justin-nichols/economic-benefits-iot-driven-smart-irrigation-systems?utm_source=chatgpt.com Publicado em 09 de agosto de 2024 e acessado em 13 de junho de 2026;
