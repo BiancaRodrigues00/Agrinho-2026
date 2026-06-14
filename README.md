@@ -1,6 +1,6 @@
 # CampoUnido
 
-   O CampoUnido é um site que foi desenvolvido com o objetivo de conectar agricultores para compartilhar conhecimentos, tirar duvidas e promover soluções. Segundo dados fornecidos pelo Centro de Estudos Avançados em Economia Aplicada (Ceape) em 27 de abril de 2026, apontou que o agronegócio representou 25,13% no Produto Interno Bruto (PIB) em 2025, evidenciando a força que este setor tem no Brasil.
+   O CampoUnido é um site que foi desenvolvido com o objetivo de conectar agricultores para compartilhar conhecimentos, tirar duvidas e promover soluções. Segundo dados fornecidos pelo Centro de Estudos Avançados em Economia Aplicada (Ceape) em 27 de abril de 2026, apontou que o agronegócio representou 25,13% no Produto Interno Bruto (PIB) em 2025, evidenciando a força que este setor exerce no Brasil.
    
    Diante disso, a fim de potencializar ainda mais nossa comunidade rural desenvolvemos o CampoUnido, lugar onde os produtores vão poder discutir de como otimizar sua produção de forma sustentável, criando assim um laço entre a produção e o meio ambiente.
    
