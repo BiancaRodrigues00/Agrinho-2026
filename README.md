@@ -1,4 +1,4 @@
-# Agrinho-2026
-o que é
+# CampoUnido
+O CampoUnido é um site que foi desenvolvido com o objetivo de conectar agricultores para compartilhar conhecimentos, tirar duvidas e promover soluções. Segundo dados fornecidos pelo Centro de Estudos Avançados em Economia Aplicada (Ceape) em 27 de abril de 2026, apontou que o agronegócio representou 25,13% no Produto Interno Bruto (PIB) em 2025, evidenciando a força que este setor tem no Brasil. Diante disso, a fim de potencializar ainda mais nossa comunidade rural deselvolvemos o CampoUnido, lugar onde os produtores vão poder discutir de como otimizar sua produção de forma sustentável, criando assim um laço entre a produção e o meio ambiente. Nesse site, além de explorar nosso conteúdo e se manter atualizado sobre o preço de mercado, essa plataforma digital oferece um recurso inovador para colaborar com os produtores. A comunidade CampoUnido é uma caixa de entreda onde os usuários podem publicar duvidas e sugestôes, uma vez que publicadas qualquer agricultor pode responder seu comentario, criando assim uma area rural unida em busca de soluções.
 como funciona
 creditos
